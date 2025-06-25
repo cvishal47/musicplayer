@@ -4,7 +4,7 @@ let musicList = [
         name: "Soch Na Sake",
         artist: "Arijit Singh",
         img: "img/Soch Na Sake.jpg",
-        src: "audio/01 - Airlift - Soch Na Sake (Version 1) -DJMaza.Info-.mp3",
+        src: https://www.youtube.com/watch?v=jxrn6aVXdfM
         love: false,
     },
     {
